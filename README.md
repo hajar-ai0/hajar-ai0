@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Hajar! 👋
 
-<!--
-**hajar-ai0/hajar-ai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student at the University of Bisha, Saudi Arabia.
 
-Here are some ideas to get you started:
+🤖 Aspiring AI Engineer passionate about learning and building intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** Python, C++, SQL
+- **Tools:** Google Colab, Git, GitHub
+
+## 🚀 Featured Project
+
+### Malicious URL Detection with DistilBERT
+
+A graduation project focused on detecting and classifying malicious URLs using Natural Language Processing (NLP) and Transformer-based models.
+
+- **Technologies:** Python, NLP, DistilBERT, Gradio
+
+🔗 [View Project](https://github.com/hajar-ai0/gp-malicious-url-detection)
